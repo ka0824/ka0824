@@ -14,6 +14,7 @@
 
 - Vue 3
 - Spring Boot
+- [학습 중인 프로젝트 바로가기](https://github.com/ka0824/noky_vue_spring)
 
 이메일 입니다.
 
