@@ -1,19 +1,19 @@
-프로젝트에 바로 사용 가능합니다.
+**주요 기술 스택:**
 
-![badge1](https://img.shields.io/badge/React-yellow) ![badge2](https://img.shields.io/badge/Html-orange) ![badge3](https://img.shields.io/badge/Css-red)
+- React
+- Redux
+- TypeScript
 
+**개인 프로젝트 경험:**
 
-공부 중 입니다.
+- Front-end: Next.js, React, Redux, TypeScript
+- Back-end: Express, AWS (Amazon Web Services), Firebase
+- Database: MySQL
 
-![badge4](https://img.shields.io/badge/Typescript-blue)
+**현재 학습 중:**
 
-
-사용해 본 경험이 있습니다.
-
-![badge4](https://img.shields.io/badge/express-green) ![badge4](https://img.shields.io/badge/mysql-yellowgreen) ![badge4](https://img.shields.io/badge/aws-yellow)
-
-
-<br />
+- Vue 3
+- Spring Boot
 
 이메일 입니다.
 
