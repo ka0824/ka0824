@@ -45,4 +45,4 @@ rkgud0824@gmail.com
 
 블로그 입니다.
 
-https://ka0824.github.io/
+[https://ddmoonddmoon.tistory.com/](https://ddmoonddmoon.tistory.com/)
