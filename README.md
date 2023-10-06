@@ -28,17 +28,6 @@
 
 --------------------------------------------
 
-**현재 학습 중:**
-
-![vue3](https://github.com/ka0824/ka0824/assets/79782594/3be042f5-9bdb-4282-8947-eed318ce3f6c)
-![springboot](https://github.com/ka0824/ka0824/assets/79782594/f54e4262-96f0-4748-a9ea-4ae6649cd1c2)
-![aws](https://github.com/ka0824/ka0824/assets/79782594/d20075c1-7451-4bc2-bfb2-7e33b3076a0f)
-![docker](https://github.com/ka0824/ka0824/assets/79782594/b6108bb9-284a-4435-8825-f14ecf1aec0b)
-
-### - [학습 중인 프로젝트 바로가기](https://github.com/ka0824/noky_vue_spring)
-
---------------------------------------------
-
 이메일 입니다.
 
 rkgud0824@gmail.com
