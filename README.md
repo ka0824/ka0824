@@ -14,14 +14,6 @@
  
 ![nextjs](https://github.com/ka0824/ka0824/assets/79782594/1d36440f-4eab-46e4-9f43-d82d85a60029)
 
-
-- Back-end:  
-
-![express](https://github.com/ka0824/ka0824/assets/79782594/9c32d207-aaa5-4889-ba4f-b2ba393103ed)
-![firebase](https://github.com/ka0824/ka0824/assets/79782594/3230f202-c8dd-4908-be7f-45933c5e334e)
-![mysql](https://github.com/ka0824/ka0824/assets/79782594/9a1a5221-de44-42f5-9dcc-9554735c9583)
-
-
 - DevOps:
 
 ![aws](https://github.com/ka0824/ka0824/assets/79782594/1022b1d8-130a-4f62-9ed6-3c15a8c943d0)
